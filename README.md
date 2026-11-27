@@ -9,11 +9,11 @@ I like building systems that make games feel alive, and a little bit unsettling
 - **Interests:** gameplay systems, engine architecture, art
 
 ## Featured project
-**[Echoes of the Ward](https://github.com/syadeeya/EarlyBirdGetsDaWorm)**
-A psychological horror game in C++ ´ཀ` 
-You work a shift in a hospital ward. Patients present with different illnesses, 
-the systems available to you change with them, and something in the building is wrong...
-Watch for anomalies, log what you find, and survive what is waiting at the end.
+**[Echoes of the Ward](https://github.com/syadeeya/EarlyBirdGetsDaWorm)** ´ཀ` 
+
+A psychological horror game in C++ You work a shift in a hospital ward. Patients present with different illnesses, 
+the systems available to you change with them, and something in the building is wrong... Watch for anomalies, log what you find, 
+and survive what is waiting at the end.
 
 ## Get in touch .ᐟ.ᐟ
 - LinkedIn:  linkedin.com/in/syadeeya

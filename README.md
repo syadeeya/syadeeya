@@ -18,8 +18,10 @@ A psychological horror game in C++ You work a shift in a hospital ward. Patients
 the systems available to you change with them, and something in the building is wrong... Watch for anomalies, log what you find, 
 and survive what is waiting at the end.
 
-## Get in touch .ᐟ.ᐟ
+## Get in touch 
 - LinkedIn:  linkedin.com/in/syadeeya
 - Email:     sharithfadhirlah@gmail.com
+
+
   
 𐔌՞. .՞𐦯

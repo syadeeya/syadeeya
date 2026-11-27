@@ -2,8 +2,9 @@
 
 I make games look and feel the way they should. I'm a game dev student at
 DigiPen Institute of Technology Singapore × SIT, and I'm happiest where
-gameplay and art meet: lighting, atmosphere, visual polish and the little
-details that make a player *feel* something.
+gameplay and art meet! 
+
+~ the little details that make a player *feel* something ~
 
 ## Toolbox
 - **Code:** C++, C

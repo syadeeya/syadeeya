@@ -1,4 +1,4 @@
-# Hi, I'm Syadeeya ˙ᵕ˙
+# I'm Syadeeya ˙ᵕ˙
 
 I make games look and feel the way they should. I'm a game dev student at
 DigiPen Institute of Technology Singapore × SIT, and I'm happiest where

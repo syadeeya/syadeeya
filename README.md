@@ -1,13 +1,15 @@
 # Hi, I'm Syadeeya ˙ᵕ˙
 
-Game programmer student at DigiPen Institute of Technology Singapore × SIT.
-I like building systems that make games feel alive, and a little bit unsettling 
+I make games look and feel the way they should. I'm a game dev student at
+DigiPen Institute of Technology Singapore × SIT, and I'm happiest where
+gameplay and art meet: lighting, atmosphere, visual polish and the little
+details that make a player *feel* something.
 
-## What I work with
-- **Languages:** C++, C
+## Toolbox
+- **Code:** C++, C
 - **Tools:** Visual Studio, Git/GitHub, DigiPen AlphaEngine
-- **Interests:** gameplay systems, engine architecture, art
-
+- **Art:** Adobe Photoshop, Illustrator, Dimension, XD
+  
 ## Featured project
 **[Echoes of the Ward](https://github.com/syadeeya/EarlyBirdGetsDaWorm)** ´ཀ` 
 
